@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://killbyt3.github.io/killbyt3/sitemap.xml
