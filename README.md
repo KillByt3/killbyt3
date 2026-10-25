@@ -82,12 +82,6 @@ status:    hunting bugs & writing up labs
 - [Kitsune CTF (Active Directory, Easy, HackSmarter)](https://killbyt3-blog.vercel.app/posts/ctf)
 - ➜ More on the [blog](https://killbyt3-blog.vercel.app/) and [Medium](https://medium.com/@0xZ3US)
 
-### 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KillByt3&bg_color=08090d&color=e9ebf2&line=ff3b4e&point=36d8e6&area=true&area_color=ff3b4e&hide_border=true" alt="Contribution graph" width="100%">
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b4e,40:3a0a12,100:08090d&height=110&section=footer" alt="" width="100%">
 </p>
