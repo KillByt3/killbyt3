@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://killbyt3.github.io/killbyt3/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3B4E&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Ebram+Abdelmassih+Shenoda;Active+Directory+attack+chains;CRTP+%E2%80%A2+CRTA+%E2%80%A2+CARTS+%E2%80%A2+CRTO+(in+progress);%2344+in+Egypt+on+Hack+The+Box" alt="Typing intro">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FF3B4E&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Ebram+Abdelmassih+Shenoda;Active+Directory+attack+chains;CRTP+%E2%80%A2+CRTA+%E2%80%A2+AD-RTS+%E2%80%A2+CRTO+(in+progress);%2344+in+Egypt+on+Hack+The+Box" alt="Typing intro">
   </a>
 </p>
 
@@ -27,7 +27,7 @@ I'm **Ebram Abdelmassih Shenoda**, known online as **KillByt3**, a junior **pene
 operator:  Ebram "KillByt3" Shenoda
 role:      Junior Pentester / Red Teamer
 focus:     [Active Directory, Red Team Ops & C2, Web Exploitation, Bug Bounty]
-certs:     [CRTP, CRTA, CARTS, CRTO (in progress)]
+certs:     [CRTP, CRTA, AD-RTS, CRTO (in progress)]
 htb_rank:  "#44 / Egypt"
 status:    hunting bugs & writing up labs
 ```
@@ -37,7 +37,7 @@ status:    hunting bugs & writing up labs
 <p>
   <img src="https://img.shields.io/badge/CRTP-Altered%20Security-ff3b4e?style=flat-square&labelColor=08090d" alt="CRTP">
   <img src="https://img.shields.io/badge/CRTA-CyberWarfare%20Labs-ff3b4e?style=flat-square&labelColor=08090d" alt="CRTA">
-  <img src="https://img.shields.io/badge/CARTS-CyberWarfare%20Labs-ff3b4e?style=flat-square&labelColor=08090d" alt="CARTS">
+  <img src="https://img.shields.io/badge/AD--RTS-CyberWarfare%20Labs-ff3b4e?style=flat-square&labelColor=08090d" alt="AD-RTS">
   <img src="https://img.shields.io/badge/CRTO-in%20progress-ffb84d?style=flat-square&labelColor=08090d" alt="CRTO in progress">
   <img src="https://img.shields.io/badge/HTB%20Pro%20Labs-Zephyr%20%E2%80%A2%20Heron-9fef00?style=flat-square&labelColor=08090d" alt="HTB Pro Labs">
 </p>

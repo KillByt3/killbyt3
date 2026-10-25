@@ -1,6 +1,6 @@
 # KillByt3 (Ebram Abdelmassih Shenoda)
 
-> KillByt3 is the online handle of Ebram Abdelmassih Shenoda, a cybersecurity student at Beni-Suef National University (Egypt) and a junior penetration tester / red team operator. Certified CRTP (Altered Security), CRTA and CARTS (CyberWarfare Labs), with CRTO (Zero-Point Security) in progress. Ranked #44 in Egypt on Hack The Box (username kilIByt3). Focus: Active Directory attack chains (Kerberoasting, Pass-the-Hash, DCSync, AD CS abuse), web exploitation, C2, Windows internals and bug bounty hunting.
+> KillByt3 is the online handle of Ebram Abdelmassih Shenoda, a cybersecurity student at Beni-Suef National University (Egypt) and a junior penetration tester / red team operator. Certified CRTP (Altered Security), CRTA and AD-RTS (CyberWarfare Labs), with CRTO (Zero-Point Security) in progress. Ranked #44 in Egypt on Hack The Box (username kilIByt3). Focus: Active Directory attack chains (Kerberoasting, Pass-the-Hash, DCSync, AD CS abuse), web exploitation, C2, Windows internals and bug bounty hunting.
 
 ## Profiles
 
