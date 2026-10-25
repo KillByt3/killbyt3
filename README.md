@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,60:3a0a12,100:ff3b4e&height=190&section=header&text=KillByt3&fontSize=64&fontColor=e9ebf2&fontAlignY=36&desc=Red%20Team%20Operator%20%E2%80%A2%20Penetration%20Tester&descAlignY=58&descSize=18&animation=fadeIn" alt="KillByt3 banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08090d,60:3a0a12,100:ff3b4e&height=210&section=header&text=KillByt3&fontSize=70&fontColor=e9ebf2&fontAlignY=36&desc=Red%20Team%20Operator%20%E2%80%A2%20Penetration%20Tester&descAlignY=58&descSize=18&animation=twinkling" alt="KillByt3 banner" width="100%">
 </p>
 
 <p align="center">
@@ -23,14 +23,9 @@
 
 I'm **Ebram Abdelmassih Shenoda**, known online as **KillByt3**, a junior **penetration tester & red team operator** from Egypt and a cybersecurity student at Beni-Suef National University.
 
-```yaml
-operator:  Ebram "KillByt3" Shenoda
-role:      Junior Pentester / Red Teamer
-focus:     [Active Directory, Red Team Ops & C2, Web Exploitation, Bug Bounty]
-certs:     [CRTP, CRTA, AD-RTS, CRTO (in progress)]
-htb_rank:  "#44 / Egypt"
-status:    hunting bugs & writing up labs
-```
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: whoami, certifications, HTB rank" width="100%">
+</p>
 
 ### 🎖️ Certifications
 
@@ -82,6 +77,14 @@ status:    hunting bugs & writing up labs
 - [Kitsune CTF (Active Directory, Easy, HackSmarter)](https://killbyt3-blog.vercel.app/posts/ctf)
 - ➜ More on the [blog](https://killbyt3-blog.vercel.app/) and [Medium](https://medium.com/@0xZ3US)
 
+### 🐍 Eating my contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KillByt3/killbyt3/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KillByt3/killbyt3/output/snake-light.svg">
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/KillByt3/killbyt3/output/snake-dark.svg" width="100%">
+</picture>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b4e,40:3a0a12,100:08090d&height=110&section=footer" alt="" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3b4e,40:3a0a12,100:08090d&height=120&section=footer&animation=twinkling" alt="" width="100%">
 </p>
