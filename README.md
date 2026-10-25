@@ -12,3 +12,4 @@ Junior **penetration tester & red team operator** from Egypt, studying cybersecu
 - 📝 Blog: https://killbyt3-blog.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/ebram-abdelmassih-9281ba30b/
 - ✍️ Medium: https://medium.com/@0xZ3US
+- 🟩 Hack The Box: https://app.hackthebox.com/users/2357161

@@ -9,4 +9,5 @@
 - [GitHub](https://github.com/KillByt3)
 - [LinkedIn](https://www.linkedin.com/in/ebram-abdelmassih-9281ba30b/)
 - [Medium (@0xZ3US)](https://medium.com/@0xZ3US)
+- [Hack The Box profile (kilIByt3, #44 in Egypt)](https://app.hackthebox.com/users/2357161)
 - [Who is KillByt3? (FAQ)](https://killbyt3-blog.vercel.app/who-is-killbyt3)
