@@ -8,6 +8,6 @@
 - [Blog](https://killbyt3-blog.vercel.app/): write-ups on red teaming and Active Directory attacks
 - [GitHub](https://github.com/KillByt3)
 - [LinkedIn](https://www.linkedin.com/in/ebram-abdelmassih-9281ba30b/)
-- [Medium (@0xZ3US)](https://medium.com/@0xZ3US)
+- [Medium (@killbyt3)](https://medium.com/@killbyt3)
 - [Hack The Box profile (kilIByt3, #44 in Egypt)](https://app.hackthebox.com/users/2357161)
 - [Who is KillByt3? (FAQ)](https://killbyt3-blog.vercel.app/who-is-killbyt3)

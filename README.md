@@ -14,7 +14,7 @@
   <a href="https://killbyt3-blog.vercel.app/"><img src="https://img.shields.io/badge/Blog-08090d?style=for-the-badge&logo=vercel&logoColor=ff3b4e" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/ebram-abdelmassih-9281ba30b/"><img src="https://img.shields.io/badge/LinkedIn-08090d?style=for-the-badge&logo=linkedin&logoColor=ff3b4e" alt="LinkedIn"></a>
   <a href="https://app.hackthebox.com/users/2357161"><img src="https://img.shields.io/badge/HTB-%2344%20Egypt-08090d?style=for-the-badge&logo=hackthebox&logoColor=9fef00" alt="Hack The Box"></a>
-  <a href="https://medium.com/@0xZ3US"><img src="https://img.shields.io/badge/Medium-@0xZ3US-08090d?style=for-the-badge&logo=medium&logoColor=ff3b4e" alt="Medium"></a>
+  <a href="https://medium.com/@killbyt3"><img src="https://img.shields.io/badge/Medium-@killbyt3-08090d?style=for-the-badge&logo=medium&logoColor=ff3b4e" alt="Medium"></a>
 </p>
 
 ---
@@ -75,7 +75,7 @@ I'm **Ebram Abdelmassih Shenoda**, known online as **KillByt3**, a junior **pene
 - [Active Directory Trusts: How They Work and How Attackers Abuse Them](https://killbyt3-blog.vercel.app/posts/active-directory-trusts-how-they-work-and-how-attackers-abuse-them)
 - [Attacking MSSQL Server](https://killbyt3-blog.vercel.app/posts/attacking-mssql-server)
 - [Kitsune CTF (Active Directory, Easy, HackSmarter)](https://killbyt3-blog.vercel.app/posts/ctf)
-- ➜ More on the [blog](https://killbyt3-blog.vercel.app/) and [Medium](https://medium.com/@0xZ3US)
+- ➜ More on the [blog](https://killbyt3-blog.vercel.app/) and [Medium](https://medium.com/@killbyt3)
 
 ### 🐍 Eating my contribution graph
 
